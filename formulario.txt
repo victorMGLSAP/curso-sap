@@ -1,0 +1,5 @@
+Hola
+mi nombre es:
+mi edad:
+mi experiencia laboral:
+mis lenguajes de programación favoritos son:
